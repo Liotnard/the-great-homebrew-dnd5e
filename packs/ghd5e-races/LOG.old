@@ -1,3 +1,23 @@
-2026/03/10-17:59:55.273 98f4 Recovering log #62
-2026/03/10-17:59:55.278 98f4 Delete type=0 #62
-2026/03/10-17:59:55.278 98f4 Delete type=3 #61
+2026/09/28-20:02:50.933 a24 Recovering log #158
+2026/09/28-20:02:50.935 a24 Level-0 table #160: started
+2026/09/28-20:02:50.948 a24 Level-0 table #160: 448639 bytes OK
+2026/09/28-20:02:50.954 a24 Delete type=0 #158
+2026/09/28-20:02:50.954 a24 Delete type=3 #157
+2026/09/28-20:09:14.922 3214 Level-0 table #163: started
+2026/09/28-20:09:14.922 3214 Level-0 table #163: 0 bytes OK
+2026/09/28-20:09:14.924 3214 Delete type=0 #161
+2026/09/28-20:09:14.930 3214 Manual compaction at level-0 from '!folders!0q6ioKzETqfbmCbH' @ 72057594037927935 : 1 .. '!items.effects!x5oU1GS2dW0k5fXD.064545c30b1efe28' @ 0 : 0; will stop at '!items.effects!x5oU1GS2dW0k5fXD.064545c30b1efe28' @ 2035 : 1
+2026/09/28-20:09:14.930 3214 Compacting 1@0 + 0@1 files
+2026/09/28-20:09:14.935 3214 Generated table #164@0: 46 keys, 53004 bytes
+2026/09/28-20:09:14.935 3214 Compacted 1@0 + 0@1 files => 53004 bytes
+2026/09/28-20:09:14.937 3214 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/28-20:09:14.938 3214 Delete type=2 #160
+2026/09/28-20:09:14.941 3214 Manual compaction at level-0 from '!items.effects!x5oU1GS2dW0k5fXD.064545c30b1efe28' @ 2035 : 1 .. '!items.effects!x5oU1GS2dW0k5fXD.064545c30b1efe28' @ 0 : 0; will stop at (end)
+2026/09/28-20:09:14.944 3214 Manual compaction at level-1 from '!folders!0q6ioKzETqfbmCbH' @ 72057594037927935 : 1 .. '!items.effects!x5oU1GS2dW0k5fXD.064545c30b1efe28' @ 0 : 0; will stop at '!items.effects!x5oU1GS2dW0k5fXD.064545c30b1efe28' @ 2035 : 1
+2026/09/28-20:09:14.944 3214 Compacting 1@1 + 1@2 files
+2026/09/28-20:09:14.950 3214 Generated table #165@1: 222 keys, 198885 bytes
+2026/09/28-20:09:14.950 3214 Compacted 1@1 + 1@2 files => 198885 bytes
+2026/09/28-20:09:14.951 3214 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/09/28-20:09:14.952 3214 Delete type=2 #156
+2026/09/28-20:09:14.952 3214 Delete type=2 #164
+2026/09/28-20:09:14.958 3214 Manual compaction at level-1 from '!items.effects!x5oU1GS2dW0k5fXD.064545c30b1efe28' @ 2035 : 1 .. '!items.effects!x5oU1GS2dW0k5fXD.064545c30b1efe28' @ 0 : 0; will stop at (end)

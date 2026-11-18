@@ -1,0 +1,20 @@
+{
+  "OLTHERIA": {
+    "LanguageGroup": {
+      "Oltherian": "Oltheria",  
+      "Regional": "Regional Languages",
+      "Special": "Dialects"
+    },
+    "Language": {
+      "Oceostian": "Oceostian",
+      "Meditian": "Meditian",
+      "Fablespeak": "Fablespeak",
+      "Nurdian": "Nurdian",
+      "Conteastian": "Conteastian",
+      "Nemean": "Nemean",
+      "WolfHowl": "Night-Howl",
+      "RoadLanguage": "Road-Language",
+      "Atalant":"Atalant"
+    }
+  }
+}

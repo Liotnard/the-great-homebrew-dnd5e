@@ -1,7 +1,7 @@
 {
   "id": "the-great-homebrew-dnd5e",
   "title": "The Great Homebrew D&D5e",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "url": "https://github.com/Liotnard/the-great-homebrew-dnd5e",
 	"manifest": "https://github.com/Liotnard/the-great-homebrew-dnd5e/releases/latest/download/module.json",
 	"download": "https://github.com/Liotnard/the-great-homebrew-dnd5e/releases/latest/download/the-great-homebrew-dnd5e.zip",
@@ -104,5 +104,20 @@
       }
     ]
   },
+  "scripts": [
+    "scripts/languages.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "fr",
+      "name": "Français",
+      "path": "lang/fr.json"
+    }
+  ],
   "description": ""
 }
